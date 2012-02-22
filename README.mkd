@@ -1,5 +1,6 @@
 ditto.vim
 ============
 
-Color scheme that uses your .Xdefaults for the gui colors.
+This is a vim color scheme which attempts to use the same colors for both vim
+and gvim.  This is a color scheme that uses your .Xdefaults for the gui colors. 
 
