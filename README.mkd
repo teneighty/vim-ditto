@@ -1,0 +1,5 @@
+ditto.vim
+============
+
+Color scheme that uses your .Xdefaults for the gui colors.
+
